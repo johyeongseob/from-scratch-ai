@@ -29,3 +29,9 @@
 한글: https://johyeongseob.tistory.com/71
 
 영문: https://www.kaggle.com/code/sushant097/vit-scratch-implementation-pytorch/notebook
+
+**Contrastive Language-Image Pre-training (CLIP)**
+
+한글: https://johyeongseob.tistory.com/72
+
+영문: https://www.kaggle.com/code/moeinshariatnia/openai-clip-simple-implementation/notebook
