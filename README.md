@@ -1,7 +1,5 @@
 # 🧠 기초부터 시작하는 인공지능 모델 (PyTorch 버전)
 
-## 튜토리얼 목록
-
 ### 기초부터 시작하는 NLP 시리즈 with. 파이토치(PyTorch) 한국 사용자모임
 
 - [NLP 1: 텍스트 전체 처리와 워드 임벤드](https://johyeongseob.tistory.com/49)  
